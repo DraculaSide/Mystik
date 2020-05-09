@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mystik:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mystik_jar</output-path>
+    <root id="archive" name="Mystik.jar">
+      <element id="module-output" name="Mystik" />
+    </root>
+  </artifact>
+</component>

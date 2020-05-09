@@ -1,0 +1,5 @@
+name: Mystik
+version: ${project.version}
+main: de.draculaside.core.mystik.Mystik
+api-version: 1.13
+authors: [DraculaSide]
